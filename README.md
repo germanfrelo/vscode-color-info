@@ -83,4 +83,4 @@ VSCode does not currently support nested languages, so to enable Color Info in a
 }
 ```
 
-To your `colorInfo.languages` setting. Make you add this setting to the end of the default `colorInfo.languages` setting so that you do not disable Color Info for the standard languages.
+to your `colorInfo.languages` setting. Make sure you add this setting to the end of the default `colorInfo.languages` setting so that you do not disable Color Info for the standard languages.
